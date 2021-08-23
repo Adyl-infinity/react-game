@@ -1,0 +1,19 @@
+.game{
+    text-align: center;
+}
+.chk-btn {
+    width: 70px;
+    height: 25px;
+    background-color: aqua;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.res-btn {
+    width: 70px;
+    height: 25px;
+    background-color: greenyellow;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    margin-left: 5px;
+}

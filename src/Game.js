@@ -91,7 +91,7 @@ const Game = () => {
     useEffect(() => {
         localStorage.setItem("comp", computer)
         localStorage.setItem("person", person)
-    },[message])
+    },[message, computer, person])
 
     // useEffect(() => {
     //
